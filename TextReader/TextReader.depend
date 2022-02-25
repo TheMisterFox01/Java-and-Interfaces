@@ -1,0 +1,131 @@
+# depslib dependency file v1.0
+1630941137 source:e:\github\interfaces\textreader\globals\global.c
+	"global.h"
+	<stdio.h>
+	<stdarg.h>
+
+1633381365 e:\github\interfaces\textreader\globals\global.h
+	<tchar.h>
+	<windows.h>
+	"../defines.h"
+	"../input_buffer/input_buffer.h"
+	"../screen_buffer/screen_buffer.h"
+	"../customization/customization.h"
+
+1630957968 source:e:\github\interfaces\textreader\file_support\file_support.c
+	"file_support.h"
+	<stdio.h>
+	<stdlib.h>
+
+1630942296 e:\github\interfaces\textreader\file_support\file_support.h
+	"../globals/global.h"
+
+1633456790 source:e:\github\interfaces\textreader\main.c
+	<tchar.h>
+	<windows.h>
+	"menu_defines.h"
+	"win_callbacks/win_callbacks.h"
+	<stdio.h>
+	<stdarg.h>
+
+1630951817 e:\github\interfaces\textreader\ui\ui.h
+	"../globals/global.h"
+
+1630958110 source:e:\github\interfaces\textreader\ui\ui.c
+	"ui.h"
+
+1630958648 source:e:\github\interfaces\textreader\string_support\string_support.c
+	"string_support.h"
+
+1630950776 e:\github\interfaces\textreader\string_support\string_support.h
+	"../globals/global.h"
+
+1633184902 source:d:\work\interfaces\interfaces\textreader\main.c
+	<tchar.h>
+	<windows.h>
+	"menu_defines.h"
+	"globals/global.h"
+	<stdio.h>
+	<stdarg.h>
+
+1633162208 d:\work\interfaces\interfaces\textreader\globals\global.h
+	<tchar.h>
+	<windows.h>
+	"../defines.h"
+	"../input_buffer/input_buffer.h"
+	"../screen_buffer/screen_buffer.h"
+	"../customization/customization.h"
+
+1633160731 d:\work\interfaces\interfaces\textreader\defines.h
+	<stdlib.h>
+	<crtdbg.h>
+	<time.h>
+	"windows.h"
+
+1633162420 d:\work\interfaces\interfaces\textreader\input_buffer\input_buffer.h
+	"../defines.h"
+
+1633182052 d:\work\interfaces\interfaces\textreader\screen_buffer\screen_buffer.h
+	"../defines.h"
+	"../customization/customization.h"
+	"../input_buffer/input_buffer.h"
+
+1633142971 d:\work\interfaces\interfaces\textreader\customization\customization.h
+	"../defines.h"
+
+1633142971 source:d:\work\interfaces\interfaces\textreader\customization\customization.c
+	"customization.h"
+
+1633142971 source:d:\work\interfaces\interfaces\textreader\input_buffer\input_buffer.c
+	<stdio.h>
+	"input_buffer.h"
+
+1633187602 source:d:\work\interfaces\interfaces\textreader\screen_buffer\screen_buffer.c
+	"screen_buffer.h"
+	"math.h"
+
+1633457060 source:e:\github\interfaces\textreader\customization\customization.c
+	"customization.h"
+
+1633383221 e:\github\interfaces\textreader\customization\customization.h
+	"../defines.h"
+
+1633364549 e:\github\interfaces\textreader\defines.h
+	<stdlib.h>
+	<crtdbg.h>
+	<time.h>
+	"windows.h"
+
+1633383385 source:e:\github\interfaces\textreader\input_buffer\input_buffer.c
+	<stdio.h>
+	"input_buffer.h"
+
+1633381311 e:\github\interfaces\textreader\input_buffer\input_buffer.h
+	"../defines.h"
+
+1633381046 e:\github\interfaces\textreader\screen_buffer\screen_buffer.h
+	"../defines.h"
+	"../customization/customization.h"
+	"../input_buffer/input_buffer.h"
+
+1633456411 source:e:\github\interfaces\textreader\screen_buffer\screen_buffer.c
+	"screen_buffer.h"
+	"math.h"
+
+1633159216 d:\work\interfaces\interfaces\textreader\menu_defines.h
+
+1633158360 source:d:\work\interfaces\interfaces\textreader\menu.rc
+	"menu_defines.h"
+
+1633457833 source:e:\github\interfaces\textreader\menu.rc
+	"menu_defines.h"
+
+1633457993 e:\github\interfaces\textreader\menu_defines.h
+
+1633383829 e:\github\interfaces\textreader\win_callbacks\win_callbacks.h
+	"../globals/global.h"
+
+1633458089 source:e:\github\interfaces\textreader\win_callbacks\win_callbacks.c
+	"win_callbacks.h"
+	"../menu_defines.h"
+
